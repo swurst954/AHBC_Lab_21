@@ -26,5 +26,12 @@ namespace AHBC_Lab_21.Controllers
 
             return View();
         }
+
+        public ActionResult Registration()
+        {
+
+            return View();
+        }
+
     }
 }
